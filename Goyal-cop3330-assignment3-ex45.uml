@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>C:/Users/19548/IdeaProjects/Goyal-cop3330-assignment3-ex45</OriginalElement>
+  <nodes>
+    <node x="247.0" y="0.0">ex45.WordFinder</node>
+    <node x="4.5" y="196.0">ex45.ReadWriteFileTest</node>
+    <node x="0.0" y="0.0">ex45.ReadWriteFile</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="ex45.ReadWriteFileTest" target="ex45.ReadWriteFile" relationship="TO_ONE">
+      <point x="-48.25" y="-84.0" />
+      <point x="52.75" y="171.0" />
+      <point x="50.5" y="171.0" />
+      <point x="-50.5" y="73.0" />
+    </edge>
+    <edge source="ex45.ReadWriteFileTest" target="ex45.ReadWriteFile" relationship="DEPENDENCY">
+      <point x="48.25" y="-84.0" />
+      <point x="149.25" y="171.0" />
+      <point x="151.5" y="171.0" />
+      <point x="50.5" y="73.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.0" showDependencies="true" x="198.0" y="182.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
